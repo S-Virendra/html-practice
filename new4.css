@@ -1,0 +1,49 @@
+div{
+
+    color: blue;
+}
+
+
+.pre{
+
+    color: red;
+}
+.para{
+
+    color: blueviolet;}
+    /*  */
+    #box1{
+
+background-color: rgb(43, 226, 202);
+/* (43,226,202) combination of rgb range(0-255} */
+
+    }
+.c{
+   color: aqua; 
+}
+.y{
+    color: blueviolet;
+}
+.b{
+    color: blue;
+}
+.r{
+    color: black;
+}
+.o{
+    color: orange;
+}
+.m{
+    color: pink;
+}
+#box2{
+    border: ;
+   text-align: center; align:center;
+
+    text-shadow: 5px -20px 7px rgb(112, 16, 181);
+    /* these values negative for opposite direction */
+}
+#shaw{
+    background: rgb(211, 225, 215);
+    box-shadow:2px 5px 3px 10px gray;
+}

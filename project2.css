@@ -4,15 +4,17 @@ text-align: center;
     background-color: aquamarine;
    background-size: 0%;
     word-spacing:40px;
+}
 a{
     text-decoration: none;
 }
 img{
 margin-top:0;
-margin-left:650ox;
+margin-left:650px;
 margin-right: 800px;
 
 
+border-top-left-radius:50
 
 }
 
