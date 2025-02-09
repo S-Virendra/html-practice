@@ -1,6 +1,7 @@
 div{
 
     color: blue;
+    background-image: url(.//robin-9361610_640.webp);
 }
 
 
@@ -46,4 +47,5 @@ background-color: rgb(43, 226, 202);
 #shaw{
     background: rgb(211, 225, 215);
     box-shadow:2px 5px 3px 10px gray;
+    background-image: url(.//robin-9361610_640.webp);
 }
