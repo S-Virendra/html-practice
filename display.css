@@ -31,7 +31,17 @@
 #id1{
 display: flex;
 justify-content: flex-end;
+
 flex-direction: row;
 
 
+}
+.text{
+    margin-top: 5%;
+border: 1px solid black;
+
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    gap: 10px;
 }

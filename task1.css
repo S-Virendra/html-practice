@@ -1,0 +1,38 @@
+.main{
+    display: flex;
+    justify-content:space-between;
+    border: 1px solid black;
+    
+
+}
+.text{
+
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+
+    }
+#box1{
+
+    border: 1px solid black;
+     border-radius:50% ;
+     height: 100px;
+     width: 100px;
+     margin: 10px;
+}
+.button{
+
+    border: 1px solid;
+    height: 30px;
+    width: 60px;
+    background-color: blue;
+    margin-right: 20px;
+    color: white;
+}
+ul{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
