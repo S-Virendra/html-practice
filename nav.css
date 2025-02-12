@@ -1,0 +1,38 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+#navbar{
+    width: 100%;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#navbar img{
+    height: 50px;
+    width: 50px;
+
+    bs border-radius: 50%;
+}
+#navbar ul{
+
+    display:flex;
+    gap: 10px;
+
+}
+#navbar ul li a{
+    text-decoration: none;
+}
+#navbar button{
+    height: 20px;
+    padding-right: 10px;
+    background-color: blueviolet;
+    margin: 20px;;
+
+}
+#navbar ul{
+    list-style: none;
+}
