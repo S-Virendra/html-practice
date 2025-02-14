@@ -23,7 +23,8 @@
     gap: 10px;
 
 }
-#navbar ul li a{
+#navbar ul li a:hover{
+    color: aquamarine;
     text-decoration: none;
 }
 #navbar button{
